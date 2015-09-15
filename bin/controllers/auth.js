@@ -11,7 +11,8 @@ var fmt = require('logfmt')
 
 const number = {
   s7509896: '+14157669503',
-  s37078794: '+14159360869'
+  s37078794: '+14159360869',
+  s30410348: '+18573992172'
 }
 
 class AuthController {
